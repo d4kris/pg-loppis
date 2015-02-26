@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        version     = "0.0.1"
+        versionCode = "10" >
+
+        <!-- versionCode is optional and Android only -->
+
+        <preference name="phonegap-version" value="3.6.0" />
+
+        <name>Loppis pg</name>
+
+        <description>
+			Test of ember+phonegap
+        </description>
+
+        <author href="http://liberger.com" email="kristin@liberger.com">
+        Kris
+        </author>
+</widget>
